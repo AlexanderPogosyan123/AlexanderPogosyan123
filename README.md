@@ -11,4 +11,5 @@
 
 ### :fire: My Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexanderPogosyan123&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPogosyan123&theme=tokyonight)
  Let's code! 💻🔥
