@@ -7,5 +7,7 @@
 📖 Forever learning, forever growing.
 
 📫 Connect with me on GitHub or find me on telegram - @Alexander_Pogosyan
+---
 
+### :fire: My Stats :
  Let's code! 💻🔥
