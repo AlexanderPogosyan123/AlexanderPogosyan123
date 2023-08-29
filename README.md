@@ -1,4 +1,4 @@
-👋 Hey there! I'm Alexander, exploring the world of C# and .NET.
+👋 Hey there! This is my new account. I'm Alexander, exploring the world of C# and .NET.
 
 🌟 Sharing my C# projects - From simple console applications to more complex web projects.
 
