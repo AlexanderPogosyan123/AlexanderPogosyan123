@@ -10,4 +10,5 @@
 ---
 
 ### :fire: My Stats :
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexanderPogosyan123 &theme=radical)
  Let's code! 💻🔥
